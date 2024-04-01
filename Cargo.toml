@@ -10,4 +10,5 @@ color-eyre = "0.6.3"
 derive_more = "0.99.17"
 fp-core = "0.1.9"
 rand = "0.8.5"
+strum = { version = "0.26.2", features = ["derive"] }
 
